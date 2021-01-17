@@ -3,8 +3,39 @@
 
 [What is Advent of code ?](https://adventofcode.com/2020/about)
 
+25 programming challenges, released over the course of 25 days, from december 1 to december 25 of each year. Each problem contains 2 parts, an easy part 1 and a harder part 2 compared to part 1.
+
+### Navigation
+
+- [jump to day 1](#day-1)
+- [jump to day 2](#day-2)
+- [jump to day 3](#day-3)
+- [jump to day 4](#day-4)
+- [jump to day 5](#day-5)
+- [jump to day 6](#day-6)
+- [jump to day 7](#day-7)
+- [jump to day 8](#day-8)
+- [jump to day 9](#day-9)
+- [jump to day 10](#day-10)
+- [jump to day 11](#day-11)
+- [jump to day 12](#day-12)
+- [jump to day 13](#day-13)
+- [jump to day 14](#day-14)
+- [jump to day 15](#day-15)
+- [jump to day 16](#day-16)
+- [jump to day 17](#day-17)
+- [jump to day 18](#day-18)
+- [jump to day 19](#day-19)
+- [jump to day 20](#day-20)
+- [jump to day 21](#day-21)
+- [jump to day 22](#day-22)
+- [jump to day 23](#day-23)
+- [jump to day 24](#day-24)
+- [jump to day 25](#day-25)
+
 ### day 1
 
+[^ back to navigation](#Navigation)
 
 --- Day 1: Report Repair ---
 
@@ -53,6 +84,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 
 
 ### day 2
+
+[^ back to navigation](#Navigation)
 
 --- Day 2: Password Philosophy ---
 
@@ -106,6 +139,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 [input and solution](day_2/)
 
 ### day 3
+
+[^ back to navigation](#Navigation)
 
 --- Day 3: Toboggan Trajectory ---
 
@@ -196,6 +231,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 [input and solution](day_3/)
 
 ### day 4
+
+[^ back to navigation](#Navigation)
 
 --- Day 4: Passport Processing ---
 
@@ -336,6 +373,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 
 ### day 5
 
+[^ back to navigation](#Navigation)
+
 --- Day 5: Binary Boarding ---
 
 You board your plane only to discover a new problem: you dropped your boarding pass! You aren't sure which seat is yours, and all of the flight attendants are busy with the flood of people that suddenly made it through passport control.
@@ -402,6 +441,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 [input and solution](day_5/)
 
 ### day 6
+
+[^ back to navigation](#Navigation)
 
 --- Day 6: Custom Customs ---
 
@@ -499,6 +540,7 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 
 ### day 7
 
+[^ back to navigation](#Navigation)
 
 --- Day 7: Handy Haversacks ---
 
@@ -575,6 +617,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 [input and solution](day_7/)
 
 ### day 8
+
+[^ back to navigation](#Navigation)
 
 --- Day 8: Handheld Halting ---
 
@@ -676,7 +720,9 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 
 [input and solution](day_8/)
 
-### part 9
+### day 9
+
+[^ back to navigation](#Navigation)
 
 --- Day 9: Encoding Error ---
 
@@ -772,7 +818,9 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 
 [input and solution](day_9/)
 
-### part 10
+### day 10
+
+[^ back to navigation](#Navigation)
 
 --- Day 10: Adapter Array ---
 
@@ -931,6 +979,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 [input and solution](day_10/)
 
 ### day 11
+
+[^ back to navigation](#Navigation)
 
 --- Day 11: Seating System ---
 
@@ -1167,6 +1217,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 
 ### day 12
 
+[^ back to navigation](#Navigation)
+
 --- Day 12: Rain Risk ---
 
 Your ferry made decent progress toward the island, but the storm came in faster than anyone expected. The ferry needs to take evasive actions!
@@ -1244,6 +1296,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 [input and solution](day_12/)
 
 ### day 13
+
+[^ back to navigation](#Navigation)
 
 --- Day 13: Shuttle Search ---
 
@@ -1376,6 +1430,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 
 ### day 14
 
+[^ back to navigation](#Navigation)
+
 --- Day 14: Docking Data ---
 
 As your ferry approaches the sea port, the captain asks for your help again. The computer system that runs this port isn't compatible with the docking program on the ferry, so the docking parameters aren't being correctly initialized in the docking program's memory.
@@ -1499,6 +1555,8 @@ Your puzzle answer was 3974538275659.
 
 ### day 15
 
+[^ back to navigation](#Navigation)
+
 --- Day 15: Rambunctious Recitation ---
 
 You catch the airport shuttle and try to book a new flight to your vacation island. Due to the storm, all direct flights have been cancelled, but a route is available to get around the storm. You take it.
@@ -1563,6 +1621,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 [input and solution](day_15/)
 
 ### day 16
+
+[^ back to navigation](#Navigation)
 
 --- Day 16: Ticket Translation ---
 
@@ -1646,6 +1706,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 [input and solution](day_16/)
 
 ### day 17
+
+[^ back to navigation](#Navigation)
 
 --- Day 17: Conway Cubes ---
 
@@ -2061,6 +2123,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 
 ### day 18
 
+[^ back to navigation](#Navigation)
+
 --- Day 18: Operation Order ---
 
 As you look out the window and notice a heavily-forested continent slowly appear over the horizon, you are interrupted by the child sitting next to you. They're curious if you could help them with their math homework.
@@ -2138,6 +2202,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 [input and solution](day_18/)
 
 ### day 19
+
+[^ back to navigation](#Navigation)
 
 --- Day 19: Monster Messages ---
 
@@ -2297,6 +2363,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 [input and solution](day_19/)
 
 ### day 20
+
+[^ back to navigation](#Navigation)
 
 --- Day 20: Jurassic Jigsaw ---
 
@@ -2588,6 +2656,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 
 ### day 21
 
+[^ back to navigation](#Navigation)
+
 --- Day 21: Allergen Assessment ---
 
 You reach the train's last stop and the closest you can get to your vacation island without getting wet. There aren't even any boats here, but nothing can stop you now: you build a raft. You just need a few days' worth of food for your journey.
@@ -2638,6 +2708,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 [input and solution](day_21/)
 
 ### day 22
+
+[^ back to navigation](#Navigation)
 
 --- Day 22: Crab Combat ---
 
@@ -3037,6 +3109,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 
 ### day 23
 
+[^ back to navigation](#Navigation)
+
 --- Day 23: Crab Cups ---
 
 The small crab challenges you to a game! The crab is going to mix up some cups, and you have to predict where they'll end up.
@@ -3139,6 +3213,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 
 ### day 24
 
+[^ back to navigation](#Navigation)
+
 --- Day 24: Lobby Layout ---
 
 Your raft makes it to the tropical island; it turns out that the small crab was an excellent navigator. You make your way to the resort.
@@ -3233,6 +3309,8 @@ Both parts of this puzzle are complete! They provide two gold stars: **
 [input and solution](day_24/)
 
 ### day 25
+
+[^ back to navigation](#Navigation)
 
 --- Day 25: Combo Breaker ---
 
